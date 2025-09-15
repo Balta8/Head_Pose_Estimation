@@ -18,3 +18,13 @@ Video file processing
 Saves processed videos directly to MP4.
 
 Includes prediction smoothing to reduce jitter.
+
+## 📦 Requirements
+
+# Contents of requirements.txt:
+
+- opencv-python
+- mediapipe
+- numpy
+- joblib
+- scikit-learn
